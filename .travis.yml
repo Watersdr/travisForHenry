@@ -1,3 +1,2 @@
 language: objective-c
 xcode_project: Henry.xcodeproj
-xcode_scheme: HenryTests
