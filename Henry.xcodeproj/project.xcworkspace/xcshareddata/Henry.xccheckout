@@ -12,20 +12,24 @@
 	<dict>
 		<key>0A569D4E510D25740E340E1FA91E4EF8D6C7945F</key>
 		<string>https://github.com/RHITJuniorProjects/JrProj-1415-Mike.git</string>
+		<key>1A16FBFE45AE8ABCF836DAEE98787B8B4FE9F21E</key>
+		<string>https://github.com/Watersdr/travisForHenry.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Code/iOS/Henry/Henry.xcodeproj</string>
+	<string>Henry.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>0A569D4E510D25740E340E1FA91E4EF8D6C7945F</key>
-		<string>../../../../..</string>
+		<string>../../../JrProj-1415-Mike</string>
+		<key>1A16FBFE45AE8ABCF836DAEE98787B8B4FE9F21E</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/RHITJuniorProjects/JrProj-1415-Mike.git</string>
+	<string>https://github.com/Watersdr/travisForHenry.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0A569D4E510D25740E340E1FA91E4EF8D6C7945F</string>
+	<string>1A16FBFE45AE8ABCF836DAEE98787B8B4FE9F21E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>0A569D4E510D25740E340E1FA91E4EF8D6C7945F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>JrProj-1415-Mike</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A16FBFE45AE8ABCF836DAEE98787B8B4FE9F21E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>travisForHenry</string>
 		</dict>
 	</array>
 </dict>
